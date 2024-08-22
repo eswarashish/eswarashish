@@ -32,6 +32,6 @@ Hi there! I'm K Eswar Ashish, an AI Engineer with a deep passion for AI, Machine
 
 - **Email:** [ashish.kusumanchi@gmail.com](mailto:ashish.kusumanchi@gmail.com)
 - **LinkedIn:** [K Eswar Ashish](https://www.linkedin.com/in/k-eswar-ashish-a91947205/)
-- **GitHub:** [20bec023IIITDWD](https://github.com/eswarashish)
+- **GitHub:** [eswarashish](https://github.com/eswarashish)
 
 
