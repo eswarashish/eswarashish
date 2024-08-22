@@ -25,7 +25,7 @@ Hi there! I'm K Eswar Ashish, an AI Engineer with a deep passion for AI, Machine
 
 - **[Candidate Filtering System](https://github.com/eswarashish/Candidate-filtering-system):** A multi-agent AI system for analyzing resumes and matching them with job descriptions. Built with Streamlit for UI and LangGraph for state management, utilizing Llama models and OpenAI API for NLP.
 - **[GPS Spoofing Detection in UAVs](https://github.com/eswarashish/UAV-spoofing):** A machine learning application classifying authentic and spoofed GPS signals, contributing to UAV security.
-- **[Air Quality Surveillance & Prediction]:** An IoT system for real-time air quality monitoring using AWS IoT Core, NodeMCU, and LSTM models deployed on SageMaker.
+- **Air Quality Surveillance & Prediction:** An IoT system for real-time air quality monitoring using AWS IoT Core, NodeMCU, and LSTM models deployed on SageMaker.
 - **[UAV Communication with RSA Cryptography](https://github.com/eswarashish/RSA-Algorithm-for-UAV-cryptographic-communication):** An RSA-based encryption system for secure UAV communications.
 
 ### 📫 Get in Touch
