@@ -1,12 +1,12 @@
 # 👨‍💻 K Eswar Ashish
 
-**AI Engineer | Full-Stack Developer | IoT & UAV Security Enthusiast**
+**AI Engineer | AI Full-Stack Developer | IoT & UAV Security Enthusiast**
 
 ---
 
 ### About Me
 
-Hi there! I'm K Eswar Ashish, an AI Engineer with a deep passion for AI, Machine Learning, and full-stack web development. Currently, I am working remotely as an LLM Engineer, where I delve into the exciting realms of Generative AI, IoT 🌐, UAV Security 🚁, and ROS 🤖. My journey in tech is fueled by a constant drive to learn, innovate, and build impactful solutions.
+Hi there! I'm K Eswar Ashish, an AI Engineer with a deep passion for AI, Machine Learning, and full-stack web development. Currently, I am working remotely as an AI Engineer, where I delve into the exciting realms of Generative AI, IoT 🌐, UAV Security 🚁, and ROS 🤖. My journey in tech is fueled by a constant drive to learn, innovate, and build impactful solutions.
 
 ### 🌟 Current Interests & Exploration
 - **LangGraph & Agent Frameworks:** Actively exploring these technologies to build intelligent, dynamic systems.
