@@ -9,7 +9,7 @@
 Hi there! I'm K Eswar Ashish, an AI Engineer with a deep passion for AI, Machine Learning, and full-stack web development. Currently, I am working as an AI Engineer, where I delve into makin the AI actualaly have ROI, IoT 🌐, UAV Security 🚁, and ROS 🤖. My journey in tech is fueled by a constant drive to learn, innovate, and build impactful solutions.
 
 ### 🌟 Current Interests & Exploration
-- **LangGraph & Agent Frameworks:** Actively exploring these technologies to build intelligent, dynamic systems.
+- **LangGraph & Agent Frameworks:** Actively building on these technologies to build intelligent, dynamic systems including MCP, a2a, ACP. etc.
 - **Generative AI & Machine Learning:** Implementing advanced AI techniques, including Retrieval-Augmented Generation (RAG) and prompt engineering.
 - **IoT & UAV Security:** Building secure, resilient systems for real-time data processing and communication.
 
