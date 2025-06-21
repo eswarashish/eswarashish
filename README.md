@@ -15,12 +15,11 @@ Hi there! I'm K Eswar Ashish, an AI Engineer with a deep passion for AI, Machine
 
 ### 🛠️ Technical Skills
 
-- **Languages:** TypeScript, Python, Java, VHDL
-- **Frameworks:** React.js, Express, Node.js, Next.js, LangChain, LangGraph, TensorFlow, Scikit-learn, Vercel AI
+- **Languages:**  Python, TypeScript, Java, VHDL
+- **Frameworks:** Node.js, LangChain, LangGraph, Pytorch,TensorFlow, Scikit-learn, Vercel AI
 - **Databases:** MongoDB, PostgreSQL, ChromaDB, PineCone
 - **Cloud:** AWS, Azure
-- **Other:** Git, VLSI, DevOps, Web3, UAV Cryptography
-
+- **Other:** Git, Docker, MLFlow, MLOps
 ### 🚀 Projects
 
 - **[Candidate Filtering System](https://github.com/eswarashish/Candidate-filtering-system):** A multi-agent AI system for analyzing resumes and matching them with job descriptions. Built with Streamlit for UI and LangGraph for state management, utilizing Llama models and OpenAI API for NLP.
