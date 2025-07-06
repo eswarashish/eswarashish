@@ -65,10 +65,22 @@ AWS • Azure • Docker • GitHub Actions • MLFlow • M
 
 ---
 
-### 🔥 GitHub Contributions Snake
+### 🧠 Currently Building
 
-![Snake animation](https://github.com/eswarashish/eswarashish/blob/output/github-contribution-grid-snake.svg)
+> A **Slack Bot** powered by **LangGraph agents** that auto-generates, reviews, and posts daily social content with approval loops via Slack threads. It integrates content gen + human feedback + final delivery — all within your workspace.
 
+```mermaid
+graph TD
+    User[User on Slack]
+    SlackBot[Slack Bot (FastAPI + Bolt)]
+    LangGraphAgent[LangGraph Agent System]
+    ContentGen[Content Generator]
+    Reviewer[Editor/Reviewer Agent]
+    FinalDraft[Post Finalizer]
+
+    User --> SlackBot --> LangGraphAgent
+    LangGraphAgent --> ContentGen --> Reviewer --> FinalDraft --> SlackBot
+```
 ---
 
 ### 📫 Connect With Me
