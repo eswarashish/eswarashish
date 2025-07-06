@@ -36,8 +36,6 @@ AWS • Azure • Docker • GitHub Actions • MLFlow • M
 ---
 
 ### 🏆 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eswarashish&show_icons=true&theme=radical)  
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eswarashish&layout=compact&theme=tokyonight)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=eswarashish&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
