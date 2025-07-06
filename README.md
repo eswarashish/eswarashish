@@ -72,7 +72,7 @@ AWS • Azure • Docker • GitHub Actions • MLFlow • M
 ```mermaid
 graph TD
     User[User on Slack]
-    SlackBot[Slack Bot (FastAPI + Bolt)]
+    SlackBot[Slack Bot -FastAPI + Bolt]
     LangGraphAgent[LangGraph Agent System]
     ContentGen[Content Generator]
     Reviewer[Editor/Reviewer Agent]
