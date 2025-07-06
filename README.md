@@ -23,8 +23,7 @@ Currently, I'm exploring the bleeding edge of GenAI, multi-agent systems, and UA
 ### 🛠️ Technical Skills
 
 **Languages:**  
-Python   ⭐⭐⭐⭐☆ • TypeScript   ⭐⭐⭐☆☆ • Java   ⭐⭐⭐☆☆ • VHDL   ⭐⭐☆☆☆
-
+Python   ⭐⭐⭐⭐☆ • TypeScript   ⭐⭐⭐☆☆ • Go   ⭐⭐⭐☆☆ •
 **Frameworks & Libraries:**  
 Node.js • LangChain • LangGraph • PyTorch • TensorFlow • Scikit-learn • Vercel AI
 
