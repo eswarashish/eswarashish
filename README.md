@@ -69,10 +69,10 @@ Docker • FastAPI • Git • GitHub Actions
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-K%20Eswar%20Ashish-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswarashish/)
+[![LinkedIn](https://img.shields.io/badge/-K%20Eswar%20Ashish-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-ashish-kusumanchi-a91947205/)
 [![Email](https://img.shields.io/badge/-ashish.kusumanchi@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:ashish.kusumanchi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-eswarashish-black?style=flat&logo=github&logoColor=white)](https://github.com/eswarashish)
 
 ---
 
-> “Build like a researcher, ship like an engineer.”
+> “Work like a researcher, ship like an engineer.”
