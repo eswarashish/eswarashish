@@ -1,6 +1,6 @@
 # 👨‍💻 K Eswar Ashish
 
-**AI Engineer • Full‑Stack Agentic Systems • Custom Neural Architectures**
+**ML Engineer • AI Agentic Systems • Custom Neural Architectures • AI Integrated Backends**
 
 ---
 
