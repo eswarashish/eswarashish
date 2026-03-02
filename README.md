@@ -1,7 +1,6 @@
 # K Eswar Ashish
 
 **ML Engineer • AI Agentic Systems • Custom Neural Architectures • AI Integrated Backends**
-
 ---
 
 ### 👋 About Me
@@ -32,6 +31,7 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 ---
 
 ### Technical Arsenal
+
 
 ####🚀 **Languages & Core Systems**
 <p align="left">
