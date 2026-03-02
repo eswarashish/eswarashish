@@ -11,6 +11,24 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 
 ---
 
+
+### Metrics
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eswarashish&show_icons=true&theme=radical&title_color=007acc&icon_color=007acc&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Eswar's Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eswarashish&layout=compact&theme=radical&title_color=007acc&icon_color=007acc&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eswarashish&theme=react&color=007acc&bg_color=0d1117&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eswarashish&theme=radical&background=0d1117&stroke=007acc&fire=007acc&ring=007acc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+
+---
+
 ### What I've Been Working On
 
 - **🏗️Building Models from Scratch:**
@@ -101,31 +119,14 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 ---
 
 
-### 📈 Engineering Metrics
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eswarashish&show_icons=true&theme=radical&title_color=007acc&icon_color=007acc&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Eswar's Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eswarashish&layout=compact&theme=radical&title_color=007acc&icon_color=007acc&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eswarashish&theme=react&color=007acc&bg_color=0d1117&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eswarashish&theme=radical&background=0d1117&stroke=007acc&fire=007acc&ring=007acc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-
-
----
-
-### 🌑 Deep Learning & Research Focus
+### Deep Learning & Research Focus
 
 - **Recurrent Architectures:** Implementing custom **LSTMs** for time-series forecasting in industrial IoT (Transformers aren't always the answer!).
 - **Attention Mechanisms:** Building domain-specific **Transformer** blocks for specialized retrieval tasks.
 - **Anomaly Detection:** Training neural nets to detect signal spoofing in **UAV/Drone** communication arrays.
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-K%20Eswar%20Ashish-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-ashish-kusumanchi-a91947205/)
 [![Email](https://img.shields.io/badge/-ashish.kusumanchi@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:ashish.kusumanchi@gmail.com)
