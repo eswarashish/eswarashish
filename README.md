@@ -16,7 +16,7 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 
 - **🏗️ Building Models from Scratch:**
   I focus on building custom models and architectures rather than just using APIs. My work includes:
-  - **LSTM Models:** Developed Long Short-Term Memory networks for time-series forecasting in air quality monitoring.
+  - **LSTM Models:** Developed Long Short-Term Memory networks for time-series forecasting in air quality monitoring and electrical transfomer maintance etc.
   - **Anomaly Detection:** Built ML models to analyze flight patterns and detect spoofing attempts in UAV fleets.
   - **Custom Embeddings:** Designed specialized embedding models and retrieval pipelines for domain-specific query understanding.
 
