@@ -51,7 +51,7 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 ### Technical Stack
 
 
- **Languages & Core Systems** 🚀
+ #### **Languages & Core Systems** 🚀
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -59,7 +59,7 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
- **AI Agents, Deep Learning & Research** 🚀
+ #### **AI Agents, Deep Learning & Research** 🚀
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -70,7 +70,7 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
   <img src="https://img.shields.io/badge/Semantic_Kernel-000000?style=for-the-badge&logo=microsoft&logoColor=0078D4" alt="Semantic Kernel" />
 </p>
 
-**MLOps, Cloud & Infra** 🚀 
+#### **MLOps, Cloud & Infra** 🚀 
 <p align="left">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Mem0-007acc?style=for-the-badge&logo=store&logoColor=white" />
@@ -121,8 +121,8 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 
 ### Deep Learning & Research Focus
 
-- **Recurrent Architectures:** Implementing custom **LSTMs** for time-series forecasting in industrial IoT (Transformers aren't always the answer!).
-- **Attention Mechanisms:** Building domain-specific **Transformer** blocks for specialized retrieval tasks.
+- **Recurrent Architectures:** Implementing custom **LSTMs** and **Transformer-based** architecture like **Informer** for time-series forecasting in industrial IoT, Financial Data etc .
+- **Attention Mechanisms:** Building and finetuning domain-specific **Transformer** blocks for specialized retrieval and generation tasks using SFT and RL.
 - **Anomaly Detection:** Training neural nets to detect signal spoofing in **UAV/Drone** communication arrays.
 ---
 
