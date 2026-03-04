@@ -1,6 +1,6 @@
 # K Eswar Ashish
 
-**AI ML Engineer • AI Agentic Systems • Custom Neural Architectures • AI Integrated Backends • ML, Agentic pipelines **
+**AI ML Engineer • AI Agentic Systems • Custom Neural Architectures • AI Integrated Backends • ML, Agentic pipelines**
 ---
 
 ### 👋 About Me
