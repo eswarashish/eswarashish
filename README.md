@@ -1,6 +1,6 @@
 # K Eswar Ashish
 
-**ML Engineer • AI Agentic Systems • Custom Neural Architectures • AI Integrated Backends**
+**AI ML Engineer • AI Agentic Systems • Custom Neural Architectures • AI Integrated Backends • ML, Agentic pipelines **
 ---
 
 ### 👋 About Me
@@ -32,7 +32,7 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 ### What I've Been Working On
 
 - **🏗️Building Models from Scratch:**
-  I focus on building custom models and architectures rather than just using APIs. My work includes:
+  I'm focused on building custom models and architectures and kernel optimisation. My work includes:
   - **LSTM Models:** Developed Long Short-Term Memory networks for time-series forecasting in air quality monitoring and electrical transformer maintenance.
   - **Anomaly Detection:** Built ML models to analyze flight patterns and detect spoofing attempts in UAV fleets.
   - **Custom Embeddings:** Designed specialized embedding models and retrieval pipelines for domain-specific query understanding.
@@ -48,10 +48,10 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 
 ---
 
-### Technical Arsenal
+### Technical Stack
 
 
-####🚀 **Languages & Core Systems**
+ **Languages & Core Systems** 🚀
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -59,7 +59,7 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-####🚀 **AI Agents, Deep Learning & Research**
+ **AI Agents, Deep Learning & Research** 🚀
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -70,7 +70,7 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
   <img src="https://img.shields.io/badge/Semantic_Kernel-000000?style=for-the-badge&logo=microsoft&logoColor=0078D4" alt="Semantic Kernel" />
 </p>
 
-####🚀 **MLOps, Cloud & Infra**
+**MLOps, Cloud & Infra** 🚀 
 <p align="left">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Mem0-007acc?style=for-the-badge&logo=store&logoColor=white" />
