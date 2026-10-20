@@ -18,9 +18,6 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eswarashish&layout=compact&theme=radical&title_color=007acc&icon_color=007acc&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eswarashish&theme=react&color=007acc&bg_color=0d1117&hide_border=true&area=true" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eswarashish&theme=radical&background=0d1117&stroke=007acc&fire=007acc&ring=007acc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="100%" />
