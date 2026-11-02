@@ -12,6 +12,8 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 ---
 
 
+
+
 ### Metrics
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eswarashish&show_icons=true&theme=radical&title_color=007acc&icon_color=007acc&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Eswar's Stats" width="48%" />
@@ -25,7 +27,14 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 
 
 ---
+### Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/-K%20Eswar%20Ashish-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-ashish-kusumanchi-a91947205/)
+[![Email](https://img.shields.io/badge/-ashish.kusumanchi@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:ashish.kusumanchi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-eswarashish-black?style=flat&logo=github&logoColor=white)](https://github.com/eswarashish)
+[![Youtube](https://img.shields.io/badge/Live-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ashhhh-h2m)
+
+---
 
 ### What I've Been Working On
 
@@ -135,15 +144,6 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 - **Recurrent Architectures:** Implementing custom **LSTMs** and **Transformer-based** architecture like **Informer** for time-series forecasting in industrial IoT, Financial Data etc .
 - **Attention Mechanisms:** Building and finetuning domain-specific **Transformer** blocks for specialized retrieval and generation tasks using SFT and RL.
 - **Anomaly Detection:** Training neural nets to detect signal spoofing in **UAV/Drone** communication arrays.
----
-
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-K%20Eswar%20Ashish-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-ashish-kusumanchi-a91947205/)
-[![Email](https://img.shields.io/badge/-ashish.kusumanchi@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:ashish.kusumanchi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-eswarashish-black?style=flat&logo=github&logoColor=white)](https://github.com/eswarashish)
-[![Youtube](https://img.shields.io/badge/Live-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ashhhh-h2m)
-
 
 ---
 
