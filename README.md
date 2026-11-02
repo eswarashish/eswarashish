@@ -142,6 +142,8 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 [![LinkedIn](https://img.shields.io/badge/-K%20Eswar%20Ashish-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-ashish-kusumanchi-a91947205/)
 [![Email](https://img.shields.io/badge/-ashish.kusumanchi@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:ashish.kusumanchi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-eswarashish-black?style=flat&logo=github&logoColor=white)](https://github.com/eswarashish)
+[![Youtube](https://img.shields.io/badge/Live-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ashhhh-h2m)
+
 
 ---
 
