@@ -109,6 +109,7 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
   <img src="https://img.shields.io/badge/Temporal-24262E?style=for-the-badge&logo=temporal&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" alt="Ray" />
 </p>
 
 ---
