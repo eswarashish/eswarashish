@@ -51,9 +51,9 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 + <a href="https://github.com/LLM-Finetuning-platform"><img src="https://github.com/LLM-Finetuning-platform.png" width="48" height="48" style="border-radius: 50%; display: block; margin-bottom: 6px;" alt="LLM-Finetuning-platform" /></a>
  
   *Open-source distributed MLOps platform for scalable PyTorch model training, orchestration, and inference.*
-  * [![Sponsor Org](https://img.shields.io/badge/Sponsor-Organization-ea4aaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/LLM-Finetuning-platform) — **Direct project sponsorship**
-  * [![One-time Tier](https://img.shields.io/badge/Sponsor-One--time%20Donation-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/LLM-Finetuning-platform?frequency=one-time) — **Buy compute hours**
-  * [![Monthly Tier](https://img.shields.io/badge/Sponsor-Monthly%20Backer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/LLM-Finetuning-platform?frequency=recurring) — **Sustain ongoing development**
+  * [![Sponsor Org](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/sponsors/LLM-Finetuning-platform) - **Direct project sponsorship**
+  * [![One-time Tier](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/sponsors/LLM-Finetuning-platform?frequency=one-time) - **Buy compute hours**
+  * [![Monthly Tier](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/sponsors/LLM-Finetuning-platform?frequency=recurring) - **Sustain ongoing development**
 
 ---
 
