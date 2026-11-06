@@ -132,7 +132,7 @@ My work focuses on full-stack agentic systems, scalable automation, and cloud-na
 |  Project |  Description |
 |-----------|----------------|
 | **[GraphRAG Fine-tune Pipeline](https://github.com/eswarashish/graphrag-finetune)** | A production-ready RAG system on Neo4j with LangChain agents and a fine-tuning pipeline for synthetic Cypher query generation. |
-| **[Candidate Filtering System](https://github.com/eswarashish/Candidate-filtering-system)** | Multi-agent resume analyzer with LangGraph, Llama models & OpenAI. Built with Streamlit. |
+| 
 | **[GPS Spoofing Detection in UAVs](https://github.com/eswarashish/UAV-spoofing)** | ML-based system to detect spoofed GPS signals for UAV cybersecurity. |
 | **Air Quality Surveillance & Prediction** | IoT system for air quality monitoring using AWS IoT Core, NodeMCU, and LSTM models on SageMaker. |
 | **[RSA Crypto for UAV Comms](https://github.com/eswarashish/RSA-Algorithm-for-UAV-cryptographic-communication)** | RSA-encrypted UAV comm system to ensure secure drone comms. |
